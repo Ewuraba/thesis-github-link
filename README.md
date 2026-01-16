@@ -36,7 +36,7 @@ Reproducing the dissertation results
 Install Python. Install packages using requirements.txt. Place the Refinitiv export file in the repository using the filename referenced in the cleaning script. Run the scripts in this sequence: cleaning and merging, feature engineering, econometric modelling, machine learning validation. The workflow recreates the full set of dissertation outputs, including regression tables, sector-stratified coefficients, moderation and mediation results, and validation metrics.
 
 Repository link
-
+https://github.com/Ewuraba/thesis-github-link 
 
 Author
 Ewuraba Dede Dick, MSc Business Analytics, [University of Greenwich]
