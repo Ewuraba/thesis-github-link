@@ -11,7 +11,7 @@ This repository provides the complete materials used to produce the empirical re
 Repository contents
 This repository contains:
 
-1. The raw FTSE 350 ESG and financial dataset export used in the dissertation (where sharing is permitted)
+1. The raw FTSE 350 ESG and financial dataset export used in the dissertation 
 2. Python scripts for data cleaning, merging, and variable construction
 3. Executed analysis code that reproduces all reported statistical outputs and tables
 4. A data dictionary describing dataset fields, transformations, and modelling roles
@@ -33,7 +33,7 @@ Licensing note
 Refinitiv data is typically distributed under institutional licence. If the raw export cannot be shared publicly, the repository still provides the full analysis pipeline and documentation. Users with authorised access can re-export the same data fields from LSEG Workspace and reproduce the results by running the scripts.
 
 Reproducing the dissertation results
-Install Python. Install packages using requirements.txt. Place the Refinitiv export file in the repository using the filename referenced in the cleaning script. Run the scripts in this sequence: cleaning and merging, feature engineering, econometric modelling, machine learning validation. The workflow recreates the full set of dissertation outputs, including regression tables, sector-stratified coefficients, moderation and mediation results, and validation metrics.
+Install Python and the relevant. Place the Refinitiv export file in the repository using the filename referenced in the cleaning script. Run the scripts in this sequence: cleaning and merging, feature engineering, econometric modelling, machine learning validation. The workflow recreates the full set of dissertation outputs, including regression tables, sector-stratified coefficients, moderation and mediation results, and validation metrics.
 
 Repository link
 https://github.com/Ewuraba/thesis-github-link 
